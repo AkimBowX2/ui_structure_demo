@@ -20,7 +20,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="Main Menu Demo"
+config/name="UI Structure Demo"
 run/main_scene="res://project/ui/menus/main_menu/Main Menu.tscn"
 config/icon="res://icon.png"
 
